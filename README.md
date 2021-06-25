@@ -17,7 +17,7 @@ python3 MetaScanner.py
 
 # ⚡ - Funciones
 
-Meta Scan podra verificar si el puerto 80 esta corriendo o no, tanto eso como el poder ver puertos abiertos, esta es una version de libre uso la cual por eso es de esta calidad, proximamente pensare si subir la versio Privada mas rapida
+Meta Scan podra verificar si el puerto 80 esta corriendo o no, tanto eso como el poder ver puertos abiertos, esta es una version de libre uso la cual por eso es de esta calidad, proximamente pensare si subir la version Privada mas rapida
 
 # 🛎 - ¿Fallas, Sugerencias o Ayuda?
 
